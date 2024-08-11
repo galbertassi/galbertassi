@@ -18,7 +18,7 @@
        
 </div><br/>
 
-O meu objetivo é conseguir uma oportunidade de trabalho na área de Desenvolvedor.
+O Conhecimento é o que vai fazer com o que vc se sinta confiante e motivado.
 
 
 
