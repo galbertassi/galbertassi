@@ -1,13 +1,13 @@
 
 ### Olá! Eu sou o Gabriel Albertassi 🖐🏻
 ____________
-#### Desenvolvedor web em transição de carreira.
+#### Engenheiro de Software | Desenvolvedor Web | Vibe Coding | Cibersegurança.
 
-🌍  Atualmente moro no Rio de Janeiro Brasil
+🌍  Atualmente moro no Rio de Janeiro, Brasil
 
 ✉️ e-mail de contato é albertassig.dev@outlook.com
 
-⚡  Apaixonado por Tecnologia
+⚡  Apaixonado por Tecnologia, Automação & IA Aplicada
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabriel.albertassi)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/gabriel.albertassi)
