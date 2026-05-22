@@ -30,6 +30,7 @@ ____________
     <img align="center" alt="corel" src="https://img.shields.io/badge/CorelDRAW-000000.svg?style=for-the-badge&logo=CorelDRAW&logoColor=white" />
     <img align="center" alt="wordpress" src="https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
     <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+    <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />
     
 
 
