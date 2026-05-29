@@ -5,7 +5,7 @@ ____________
 
 🌍  Atualmente moro no Rio de Janeiro, Brasil
 
-✉️ e-mail de contato é albertassig.dev@outlook.com
+✉️ e-mail de contato é gabriel.albertassic@gmail.com
 
 ⚡  Apaixonado por Tecnologia, Automação & IA Aplicada
 
@@ -42,7 +42,7 @@ ____________
 
 _________________________
 
-- O Conhecimento é o que vai fazer com o que vc se sinta confiante e motivado
+- O Conhecimento é o que vai fazer com o que você se sinta confiante e motivado.
 
 
 
